@@ -10,7 +10,7 @@ div class='color'>
       <th>Code</th>
     </tr>
     <tr>
-      <td>${e.key === " " ? "space" : e.key}}</td>
+      <td>${e.key === " " ? "space" : e.key}</td>
       <td>${e.keyCode}</td> 
       <td>${e.code}</td>
     </tr>
